@@ -1,0 +1,11 @@
+*.ods
+*.csv
+*.log
+*.tmp
+*.bak
+logs/fit*
+logs/validation*
+logs/test*  
+*.venv
+__pycache__/
+*.pyc
